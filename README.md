@@ -21,27 +21,24 @@ Basmi Judol — Script Python untuk otomatis mendeteksi dan menghapus komentar s
    [Aktifkan API di sini](https://console.cloud.google.com/apis/library/youtube.googleapis.com)
    <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 12 16 51" src="https://github.com/user-attachments/assets/3e441968-a3b8-44c5-bbce-fc85be0bb5f5" />
    
-3. Buat credentials
-   Klik tombol "Create Credentials" dan pilih "OAuth client ID"
+3. **Buat Credentials (OAuth Client ID)**  
+   - Masuk ke halaman [Google Cloud Credentials](https://console.cloud.google.com/apis/credentials)
+   - Klik tombol **"Create Credentials"** → pilih **"OAuth client ID"**
 
-   Jika diminta untuk mengatur OAuth consent screen, pilih:
-   
-   User Type: External
-   
-   Isi App name, User support email, dan Developer contact information
-   
-   Simpan dan lanjutkan (tidak perlu isi domain/brand info untuk testing)
-   
-   Setelah itu, kembali ke halaman Credentials, klik Create Credentials > OAuth client ID
-   
-   Application type: Pilih Desktop App
-   
-   Beri nama misalnya Basmi Judol
-   
-   Klik Create, lalu klik Download JSON
-   
-   Simpan file tersebut di folder project dan ganti namanya menjadi client_secret.json
-   [Buat di sini](https://console.cloud.google.com/)
+   Jika diminta untuk mengatur **OAuth Consent Screen**, lakukan hal berikut:
+   - **User Type**: Pilih `External`
+   - Isi kolom:
+     - **App Name**
+     - **User Support Email**
+     - **Developer Contact Information**
+   - Simpan dan lanjutkan (kolom lainnya bisa dikosongkan untuk keperluan testing)
+
+   Setelah selesai setup consent screen:
+   - Kembali ke halaman **Credentials**
+   - Klik **Create Credentials** → **OAuth client ID**
+   - **Application Type**: Pilih `Desktop App`
+   - Beri nama, misalnya: `Basmi Judol`
+   - Klik **Create**, lalu **Download JSON**
    
    
 5. Buat OAuth Client ID dengan tipe **Desktop App**  

@@ -47,22 +47,17 @@ Basmi Judol — Script Python untuk otomatis mendeteksi dan menghapus komentar s
 
 5.  Referensikan Blok kode diatas ke nama file JSON yang kamu download dari Google Cloud setelah membuat OAuth Client ID.
    <img width="2688" height="454" alt="client" src="https://github.com/user-attachments/assets/b76dbd7b-2077-4384-a62c-d01823995468" />
-
-
-
-
-
    
-
-7. Tambahkan akun Google kamu sebagai Test User di OAuth consent screen (jika project belum dipublish)
+6. Tambahkan akun Google kamu sebagai Test User di OAuth consent screen (jika project belum dipublish)
+   <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 12 48 08" src="https://github.com/user-attachments/assets/b8acdc95-607b-4df5-a404-4ce6a4e7b084" />
 
 ---
 
 ## Instalasi
 
 ```bash
-git clone https://github.com/username/basmi-judol.git
-cd basmi-judol
+git clone https://github.com/zach782/basmi-komentar-judol-youtube.git
+cd basmi-komentar-judol-youtube
 python3 -m venv env
 source env/bin/activate  # Mac/Linux
 .\env\Scripts\activate   # Windows

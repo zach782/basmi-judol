@@ -40,11 +40,11 @@ Basmi Judol — Script Python untuk otomatis mendeteksi dan menghapus komentar s
    - Beri nama, misalnya: `Basmi Judol`
    - Klik **Create**, lalu **Download JSON**
    <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 12 25 43" src="https://github.com/user-attachments/assets/a2318c52-f9a3-47e1-b82f-5b689830e668" />
-
    
+4.  📁 Simpan file di direktori project
+   Pastikan file client_secret.json ada di folder project yang sama dengan script Python kamu (misalnya main.py).
+   <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 12 30 35" src="https://github.com/user-attachments/assets/8e043926-925e-44c6-88f0-5fcd9d56e805" />
    
-5. Buat OAuth Client ID dengan tipe **Desktop App**  
-   Download file `client_secret.json`
 
 6. Tambahkan akun Google kamu sebagai Test User di OAuth consent screen (jika project belum dipublish)
 

@@ -20,10 +20,27 @@ Basmi Judol — Script Python untuk otomatis mendeteksi dan menghapus komentar s
 2. Aktifkan YouTube Data API v3  
    [Aktifkan API di sini](https://console.cloud.google.com/apis/library/youtube.googleapis.com)
    <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 12 16 51" src="https://github.com/user-attachments/assets/3e441968-a3b8-44c5-bbce-fc85be0bb5f5" />
-
-
    
-4. Buat Google Cloud Project
+3. Buat credentials
+   Klik tombol "Create Credentials" dan pilih "OAuth client ID"
+
+   Jika diminta untuk mengatur OAuth consent screen, pilih:
+   
+   User Type: External
+   
+   Isi App name, User support email, dan Developer contact information
+   
+   Simpan dan lanjutkan (tidak perlu isi domain/brand info untuk testing)
+   
+   Setelah itu, kembali ke halaman Credentials, klik Create Credentials > OAuth client ID
+   
+   Application type: Pilih Desktop App
+   
+   Beri nama misalnya Basmi Judol
+   
+   Klik Create, lalu klik Download JSON
+   
+   Simpan file tersebut di folder project dan ganti namanya menjadi client_secret.json
    [Buat di sini](https://console.cloud.google.com/)
    
    

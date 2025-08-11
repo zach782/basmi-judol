@@ -43,7 +43,8 @@ Basmi Judol — Script Python untuk otomatis mendeteksi dan menghapus komentar s
    
 4.  📁 Simpan file di direktori project
    Pastikan file client_secret.json ada di folder project yang sama dengan script Python kamu (misalnya main.py).
-   <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 12 30 35" src="https://github.com/user-attachments/assets/8e043926-925e-44c6-88f0-5fcd9d56e805" />
+   <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 12 30 35" src="https://github.com/user-attachments/assets/301df1a6-db96-45d5-ab9e-6e701ff5f92a" />
+
    
 
 6. Tambahkan akun Google kamu sebagai Test User di OAuth consent screen (jika project belum dipublish)

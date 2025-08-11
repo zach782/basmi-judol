@@ -19,8 +19,10 @@ Basmi Judol — Script Python untuk otomatis mendeteksi dan menghapus komentar s
    
 2. Aktifkan YouTube Data API v3  
    [Aktifkan API di sini](https://console.cloud.google.com/apis/library/youtube.googleapis.com)
-   <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 11 52 54" src="https://github.com/user-attachments/assets/85d69639-e59a-4fd5-bf79-90e8f117ce3b" />
+   <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 12 16 51" src="https://github.com/user-attachments/assets/3e441968-a3b8-44c5-bbce-fc85be0bb5f5" />
 
+
+   
 4. Buat Google Cloud Project
    [Buat di sini](https://console.cloud.google.com/)
    

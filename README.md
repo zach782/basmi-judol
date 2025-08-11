@@ -52,7 +52,7 @@ Basmi Judol — Script Python untuk otomatis mendeteksi dan menghapus komentar s
    <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 12 48 08" src="https://github.com/user-attachments/assets/b8acdc95-607b-4df5-a404-4ce6a4e7b084" />
 
 7. Masukkan ID video YouTube yang ingin kamu moderasi di dalam file basmi_judol.ipynb, pada variabel VIDEO_ID.
-   Contoh URL: https://www.youtube.com/watch?v=lGnUBl3pCF8
+   Contoh URL: https://www,youtube.com/watch?v=lGnUBl3pCF8
    → lGnUBl3pCF8 adalah ID videonya.
    <img width="1084" height="400" alt="idyt" src="https://github.com/user-attachments/assets/502e16ae-14fc-481f-9b89-f23be93453b9" />
 

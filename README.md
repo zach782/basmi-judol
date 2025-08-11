@@ -46,7 +46,8 @@ Basmi Judol — Script Python untuk otomatis mendeteksi dan menghapus komentar s
    <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 12 30 35" src="https://github.com/user-attachments/assets/301df1a6-db96-45d5-ab9e-6e701ff5f92a" />
 
 5.  Referensikan Blok kode diatas ke nama file JSON yang kamu download dari Google Cloud setelah membuat OAuth Client ID.
-   <img width="2688" height="454" alt="client" src="https://github.com/user-attachments/assets/ef3d8c23-5049-4fd3-bd87-037727b0be78" />
+   <img width="2688" height="454" alt="client" src="https://github.com/user-attachments/assets/b76dbd7b-2077-4384-a62c-d01823995468" />
+
 
 
 

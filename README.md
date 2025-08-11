@@ -39,6 +39,8 @@ Basmi Judol — Script Python untuk otomatis mendeteksi dan menghapus komentar s
    - **Application Type**: Pilih `Desktop App`
    - Beri nama, misalnya: `Basmi Judol`
    - Klik **Create**, lalu **Download JSON**
+   <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 12 25 43" src="https://github.com/user-attachments/assets/a2318c52-f9a3-47e1-b82f-5b689830e668" />
+
    
    
 5. Buat OAuth Client ID dengan tipe **Desktop App**  

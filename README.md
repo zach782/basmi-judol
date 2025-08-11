@@ -19,6 +19,8 @@ Basmi Judol — Script Python untuk otomatis mendeteksi dan menghapus komentar s
    <img width="1440" height="900" alt="Tangkapan Layar 2025-08-11 pukul 11 52 54" src="https://github.com/user-attachments/assets/85d69639-e59a-4fd5-bf79-90e8f117ce3b" />
 
 3. Buat Google Cloud Project
+   [Buat di sini](https://console.cloud.google.com/)
+   
    
 3. Buat OAuth Client ID dengan tipe **Desktop App**  
    Download file `client_secret.json`
